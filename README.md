@@ -6,7 +6,8 @@
 
 #### About
 Nexus Edge  (Nexus) is a private Minecraft forge with cpvp and utility modules in mind  for anarchy-related servers such as 5b5t.<br>
-This project was started by Smug after gamesense++ got discontinued by TechAle.But yeah Smug is a total begginer so he would need a lot of training to make this client good 
+This project was started by Smug after gamesense++ got discontinued by TechAle.
+#### But yeah Smug is a total begginer so he would need a lot of training to make this client good 
 # Nexus helper
 * Smug (client dev)
 * OLEPOSSU (Intellij helper , blackout dev )
