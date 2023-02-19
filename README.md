@@ -15,10 +15,10 @@ This project was started by Smug after gamesense++ got discontinued by TechAle.B
 
 # From Smug
 At the beggining this client will look like trash just adding modules name in the src but after a few moment it might be worth using it along with earthack for the best cpvp experience , no need for japanese client after all =) <br>
-* After Thinking why i should continue a client that i will never use?Like the creator said you should start a new client from 0 
-* So after a long time of coding i will continue another client , this client need to be meta in order to be the best and kill these bad paste
-* I will try my best after a few time to make a meta client like Passc0de did with noxilon , but it will take a long time ... 
-*So i think you can give another member the task to do the voider client , hope you will understand
+* After Thinking why i should continue a client that i will never use?Like the creator said you should start a new client from 0 <br><br>
+* So after a long time of coding i will continue another client , this client need to be meta in order to be the best and kill these bad paste<br>
+* I will try my best after a few time to make a meta client like Passc0de did with noxilon , but it will take a long time ... <br>
+*So i think you can give another member the task to do the voider client , hope you will understand <br>
 
 # SideNote From TechAle
 * Hi, it's the main dev of gs++.<br>
